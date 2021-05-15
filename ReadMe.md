@@ -20,3 +20,6 @@ reader = easyocr.Reader(['en'], gpu = False)
 result = reader.readtext(img_path)
 print (result)
 ````
+# Demo
+Clik the picture to see the Video
+[![Watch the video](https://img.youtube.com/vi/vv71L-u0qiVk/maxresdefault.jpg)](https://youtu.be/v71L-u0qiVk)
