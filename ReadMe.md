@@ -21,5 +21,6 @@ result = reader.readtext(img_path)
 print (result)
 ````
 # Demo
+
 Clik the picture to see the Video
-[![Watch the video](https://img.youtube.com/vi/vv71L-u0qiVk/maxresdefault.jpg)](https://youtu.be/v71L-u0qiVk)
+[![Watch the video](https://img.youtube.com/vi/QOrSCVVKoaM&t=8s/maxresdefault.jpg)](https://youtu.be/QOrSCVVKoaM&t=8s)
