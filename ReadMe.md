@@ -23,4 +23,4 @@ print (result)
 # Demo
 
 Clik the picture to see the Video
-[![Watch the video](https://img.youtube.com/vi/QOrSCVVKoaM&t/maxresdefault.jpg)](https://youtu.be/QOrSCVVKoaM&t)
+[![Watch the video](https://img.youtube.com/vi/v=QOrSCVVKoaM&t=8s/maxresdefault.jpg)](https://youtu.be/v=QOrSCVVKoaM&t=8s)
